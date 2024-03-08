@@ -14,7 +14,7 @@ are passed into the area calculation function.
 ### Install the required libraries using:
 
 ```bash
-pip install -r requirements.txr
+pip install -r requirements.txt
 ```
 
 ## Usage
